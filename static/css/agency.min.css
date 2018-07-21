@@ -195,11 +195,11 @@ section#services{
     background-color:#ECEFF1;
     height:500px;
 }
-#train-button {
+.train-button {
     position: relative;
     top: 100px;
 }
-#predict-button {
+.predict-button {
     position: relative;
     top: 200px;
 }
