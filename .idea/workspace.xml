@@ -2,9 +2,458 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dee8219-ccb5-4a67-a1b2-662f02671f2b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/agra/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/amaa/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/arjun/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/bhara/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/dev/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/devnew/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/testing/himali/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/agra/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/amaa/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/arjun/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/bhara/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/dev/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/24-bha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/devnew/9-jha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/1-ka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/10-yna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/11-Ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/12-Tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/13-Da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/14-Dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/15-Na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/16-ta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/17-tha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/18-da.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/19-dha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/2-kha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/20-na.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/21-pa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/22-fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/23-ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/25-ma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/25-ya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/26-ra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/27-la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/28-yo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/3-ga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/30-sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/31-psha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/32-sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/33-ha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/34-ksya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/35-tra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/36-gya.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/4-gha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/5-nga.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/6-cha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/7-chha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/8-ja.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/font_images/training/himali/9-jha.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/mnist_convnet_model/model.ckpt-1000.meta" afterPath="$PROJECT_DIR$/tmp/mnist_convnet_model/model.ckpt-1000.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views.py" afterPath="$PROJECT_DIR$/main/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/cnn.py" afterPath="$PROJECT_DIR$/modules/cnn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ttf_image_dumper.py" afterPath="$PROJECT_DIR$/modules/ttf_image_dumper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/values.py" afterPath="$PROJECT_DIR$/modules/values.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/agency.min.css" afterPath="$PROJECT_DIR$/static/css/agency.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/agency.min.js" afterPath="$PROJECT_DIR$/static/js/agency.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/main/index.html" afterPath="$PROJECT_DIR$/templates/main/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/mnist_convnet_model/checkpoint" afterPath="$PROJECT_DIR$/tmp/mnist_convnet_model/checkpoint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/mnist_convnet_model/graph.pbtxt" afterPath="$PROJECT_DIR$/tmp/mnist_convnet_model/graph.pbtxt" />
     </list>
     <list id="bbe36cde-6c09-4703-b530-79639ac78e4c" name="Revert: django project set" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +465,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51363635">
+    <splitter split-orientation="horizontal" split-proportion="0.6689394">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="28">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <state relative-caret-position="98">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding>
                     <element signature="e#24#63#0" expanded="true" />
                   </folding>
@@ -31,20 +480,44 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/templates/main/index.html">
+          <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/modules/config.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+                <state relative-caret-position="0">
+                  <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ttf_image_dumper.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/modules/ttf_image_dumper.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
                   <folding>
-                    <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="e#9371#9377#0" expanded="true" />
+                    <element signature="e#0#56#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="values.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/modules/values.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="182">
+                  <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="cnn.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/modules/cnn.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="168">
+                  <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -52,12 +525,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="agency.min.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/css/agency.min.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="224">
-                  <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+                <state relative-caret-position="252">
+                  <caret line="199" column="15" lean-forward="false" selection-start-line="199" selection-start-column="15" selection-end-line="199" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -67,7 +540,7 @@
             <entry file="file://$PROJECT_DIR$/static/js/agency.min.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="392">
-                  <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+                  <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -92,14 +565,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Nepscan/urls.py" />
-        <option value="$PROJECT_DIR$/main/views.py" />
         <option value="$PROJECT_DIR$/modules/TtfImageDumper.py" />
-        <option value="$PROJECT_DIR$/modules/values.py" />
-        <option value="$PROJECT_DIR$/modules/ttf_image_dumper.py" />
         <option value="$PROJECT_DIR$/modules/config.py" />
         <option value="$PROJECT_DIR$/modules/cnn_furniture.py" />
         <option value="$PROJECT_DIR$/modules/preprocessing.py" />
-        <option value="$PROJECT_DIR$/modules/cnn.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Nepscan/settings.py" />
@@ -107,9 +576,13 @@
         <option value="$PROJECT_DIR$/static/css/coming-soon.min.css" />
         <option value="$PROJECT_DIR$/templates/main/index1.html" />
         <option value="$PROJECT_DIR$/static/css/agency.css" />
+        <option value="$PROJECT_DIR$/static/js/agency.min.js" />
+        <option value="$PROJECT_DIR$/modules/cnn.py" />
         <option value="$PROJECT_DIR$/static/css/agency.min.css" />
         <option value="$PROJECT_DIR$/templates/main/index.html" />
-        <option value="$PROJECT_DIR$/static/js/agency.min.js" />
+        <option value="$PROJECT_DIR$/main/views.py" />
+        <option value="$PROJECT_DIR$/modules/values.py" />
+        <option value="$PROJECT_DIR$/modules/ttf_image_dumper.py" />
       </list>
     </option>
   </component>
@@ -136,6 +609,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,7 +632,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -172,61 +646,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nepscan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nepscan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nepscan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Nepscan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nepscan_core" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/django_projects/sandesh-local" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="confi&#9;FILE&#9;file:///media/basanta/main/academics/Nepscan/modules/config.py&#10;sett&#9;null&#9;null&#10;url&#9;FILE&#9;file:///media/basanta/main/academics/Nepscan/Nepscan/urls.py" />
+    <property name="SearchEverywhereHistoryKey" value="cnn&#9;FILE&#9;file:///media/basanta/main/academics/Nepscan/modules/cnn.py&#10;confi&#9;FILE&#9;file:///media/basanta/main/academics/Nepscan/modules/config.py&#10;sett&#9;null&#9;null&#10;url&#9;FILE&#9;file:///media/basanta/main/academics/Nepscan/Nepscan/urls.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,17 +778,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="745" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1366" height="745" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17727272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18030304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2384" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.336" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2896" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -404,6 +836,112 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main/views.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#10066#10072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/agency.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#10066#10072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2758">
+          <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/agency.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -420,10 +958,11 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9371#9377#0" expanded="true" />
+            <element signature="e#10066#10072#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -468,10 +1007,11 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9371#9377#0" expanded="true" />
+            <element signature="e#10066#10072#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -515,10 +1055,11 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9371#9377#0" expanded="true" />
+            <element signature="e#10066#10072#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -539,20 +1080,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/cnn_model.py" />
-    <entry file="file://$PROJECT_DIR$/modules/values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1055">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ttf_image_dumper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -574,13 +1101,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/startbootstrap-coming-soon-gh-pages/vendor/jquery/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/startbootstrap-coming-soon-gh-pages/vendor/jquery/jquery.js" />
     <entry file="file://$PROJECT_DIR$/../../work/MajorDjango/MajorDjango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -592,13 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -616,20 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/startbootstrap-coming-soon-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/startbootstrap-coming-soon-gh-pages/index.html" />
     <entry file="file://$PROJECT_DIR$/static/css/coming-soon.css" />
     <entry file="file://$PROJECT_DIR$/static/css/coming-soon.min.css" />
     <entry file="file://$USER_HOME$/Desktop/startbootstrap-agency-gh-pages/scss/_contact.scss">
@@ -660,16 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -681,38 +1172,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/agency.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+        <state relative-caret-position="252">
+          <caret line="199" column="15" lean-forward="false" selection-start-line="199" selection-start-column="15" selection-end-line="199" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/agency.min.js">
+    <entry file="file://$PROJECT_DIR$/modules/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        <state relative-caret-position="126">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9371#9377#0" expanded="true" />
+            <element signature="e#10066#10072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/agency.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ttf_image_dumper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
           </folding>
         </state>
       </provider>

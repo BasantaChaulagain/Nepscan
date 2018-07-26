@@ -203,6 +203,14 @@ section#services{
     position: relative;
     top: 200px;
 }
+.custom-file {
+    position: relative;
+    display: inline-block;
+    width: 70%;
+    height: calc(2.25rem + 2px);
+    margin-bottom: 0;
+    top: 70;
+}
 .team-member{
     margin-bottom:50px;
     text-align:center

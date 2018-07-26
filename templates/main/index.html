@@ -72,6 +72,18 @@
           <div class="col-md-9 section-right-bar">
             <div class="service-body collapse in" id="train">
               <h4>In Train model</h4>
+              <div class="custom-file">
+                <input type="file" class="custom-file-input" id="validatedCustomFile" required>
+                <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
+                <div class="invalid-feedback">Example invalid custom file feedback</div>
+              </div>
+                <div>
+                    <a href="#" class="btn btn-primary btn-md train-button">Train</a>
+                </div>
+                <div>
+                    <i class="fa fa-spinner" style="font-size:64px; color:#FFC400"></i>
+                    <h5 id="loading-text">This may take few minutes. Please wait!</h5>
+                </div>
             </div>
             <div class="service-body collapse" id="predict">
               <h4>In Predict model</h4>

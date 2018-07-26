@@ -9,7 +9,7 @@ font_color=(0,0,0)
 
 
 #name for the image files
-fileNames = ['1-ka','2-kha','3-ga','4-gha','5-nga',
+directoryNames = ['1-ka','2-kha','3-ga','4-gha','5-nga',
              '6-cha','7-chha','8-ja','9-jha','10-yna',
              '11-Ta','12-Tha','13-Da','14-Dha','15-Na',
              '16-ta','17-tha','18-da','19-dha', '20-na',

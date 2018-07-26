@@ -158,7 +158,7 @@ def main(unused_argv):
         num_epochs=1,
         shuffle=False)
     eval_results = mnist_classifier.evaluate(input_fn=eval_input_fn)
-    print('eval_results: {}'.format(eval_results))
+    print('-----------------\neval_results: \n{}'.format(eval_results))
 
     predict_input_fn = tf.estimator.inputs.numpy_input_fn(
         x={"x": train_data[2]},
@@ -166,7 +166,7 @@ def main(unused_argv):
     prediction_results = mnist_classifier.predict(predict_input_fn)
     for i in prediction_results:
         print("i: {}".format(i))
-        print("i['classes']: {}".format(i['classes']))
+        print("i['classes']: \n{}".format(i['classes']))
     
 if __name__ == "__main__":
     tf.app.run()
