@@ -44,7 +44,7 @@ def load_data(data_directory):
         label_directory = os.path.join(data_directory, directory)
         file_names = [os.path.join(label_directory, a_file)
                       for a_file in os.listdir(label_directory)
-                      if a_file.endswith(".png")]
+                      if a_file.endswith(".jpg")]
 
         for a_file in file_names:
             image_location.append(a_file)

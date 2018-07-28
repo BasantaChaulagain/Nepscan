@@ -25,7 +25,7 @@ from config import TRAIN_DATA_DIRECTORY, TEST_DATA_DIRECTORY
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
-NUM_OF_CLASSES = 7
+NUM_OF_CLASSES = 36
 def cnn_model_fn(features, labels, mode):
     """Model function for CNN."""
     # Input Layer
@@ -96,19 +96,21 @@ def cnn_model_fn(features, labels, mode):
         # `logging_hook`.
         "probabilities": tf.nn.softmax(logits, name="softmax_tensor")
     }
+    # 4. Create export outputs
+    export_outputs = {"predicted": tf.estimator.export.PredictOutput(predictions)}
     if mode == tf.estimator.ModeKeys.PREDICT:
-      return tf.estimator.EstimatorSpec(mode=mode, predictions=predictions)
+        return tf.estimator.EstimatorSpec(mode=mode, predictions=predictions, export_outputs=export_outputs)
 
     # Calculate Loss (for both TRAIN and EVAL modes)
     loss = tf.losses.sparse_softmax_cross_entropy(labels=labels, logits=logits)
 
     # Configure the Training Op (for TRAIN mode)
     if mode == tf.estimator.ModeKeys.TRAIN:
-      optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.001)
-      train_op = optimizer.minimize(
-          loss=loss,
-          global_step=tf.train.get_global_step())
-      return tf.estimator.EstimatorSpec(mode=mode, loss=loss, train_op=train_op)
+        optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.001)
+        train_op = optimizer.minimize(
+            loss=loss,
+            global_step=tf.train.get_global_step())
+        return tf.estimator.EstimatorSpec(mode=mode, loss=loss, train_op=train_op)
 
     # Add evaluation metrics (for EVAL mode)
     eval_metric_ops = {
@@ -126,8 +128,11 @@ def main(unused_argv):
     #eval_data = mnist.test.images  # Returns np.array
     #eval_labels = np.asarray(mnist.test.labels, dtype=np.int32)
 
-    train_data, train_labels = load_data(TRAIN_DATA_DIRECTORY)
-    eval_data, eval_labels = load_data(TEST_DATA_DIRECTORY)
+    # train_data, train_labels = load_data(TRAIN_DATA_DIRECTORY)
+    train_data, train_labels = load_data('./resources/font_images/consonants/')
+    print (train_labels[167])
+    # eval_data, eval_labels = load_data(TEST_DATA_DIRECTORY)
+    eval_data, eval_labels = load_data('./resources/font_images/eval')
 
     # Create the Estimator
     mnist_classifier = tf.estimator.Estimator(
@@ -148,8 +153,20 @@ def main(unused_argv):
         shuffle=True)
     mnist_classifier.train(
         input_fn=train_input_fn,
-        steps=1000,
+        steps=100,
         hooks=[logging_hook])
+
+    def serving_input_receiver_fn():
+      """Build the serving inputs."""
+      # The outer dimension (None) allows us to batch up inputs for
+      # efficiency. However, it also means that if we want a prediction
+      # for a single instance, we'll need to wrap it in an outer list.
+      inputs = {"x": tf.placeholder(shape=[1,28, 28, 1], dtype=tf.float32)}
+      return tf.estimator.export.ServingInputReceiver(inputs, inputs)
+
+    export_dir = mnist_classifier.export_savedmodel(
+        export_dir_base="./model_saved/",
+        serving_input_receiver_fn=serving_input_receiver_fn)
 
     # Evaluate the model and print results
     eval_input_fn = tf.estimator.inputs.numpy_input_fn(
@@ -161,12 +178,13 @@ def main(unused_argv):
     print('-----------------\neval_results: \n{}'.format(eval_results))
 
     predict_input_fn = tf.estimator.inputs.numpy_input_fn(
-        x={"x": train_data[2]},
+        x={"x": train_data[167]},
         shuffle=False)
     prediction_results = mnist_classifier.predict(predict_input_fn)
     for i in prediction_results:
         print("i: {}".format(i))
         print("i['classes']: \n{}".format(i['classes']))
-    
+
+
 if __name__ == "__main__":
     tf.app.run()

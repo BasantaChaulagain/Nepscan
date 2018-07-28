@@ -22,6 +22,7 @@ def main():
 
         count = count + 1
         for key, value in fontFiles.items():
+            print key
             custom_font = ImageFont.truetype(TTF_FONT_DIRECTORY + key, font_size)
 
             #draw image for each characters of each font
