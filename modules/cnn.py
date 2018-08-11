@@ -16,12 +16,10 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
-
 import tensorflow as tf
 
-from preprocessing import load_data
-from config import TRAIN_DATA_DIRECTORY, TEST_DATA_DIRECTORY
+from .preprocessing import load_data
+from .config import TRAIN_DATA_DIRECTORY, TEST_DATA_DIRECTORY
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
