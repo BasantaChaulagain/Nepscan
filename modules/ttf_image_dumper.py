@@ -29,10 +29,9 @@ def main():
             if value[count] != '':
                 im = Image.new("RGB", (width, height), back_ground_color)
                 draw = ImageDraw.Draw(im)
-                draw.text((10, 10), value[count], font=custom_font, fill=font_color)
+                draw.text((offsetx, offsety), value[count], font=custom_font, fill=font_color)
                 im.save(test_directories[count]+key.lower().strip('.ttf')+".png", 'PNG')
                 im.save(train_directories[count]+key.lower().strip('.ttf')+".png", 'PNG')
-
 
 if __name__== "__main__":
     main()

@@ -982,7 +982,7 @@ node {
   }
 }
 node {
-  name: "Reshape/shape"
+  name: "input/shape"
   op: "Const"
   attr {
     key: "_output_shapes"
@@ -1018,10 +1018,10 @@ node {
   }
 }
 node {
-  name: "Reshape"
+  name: "input"
   op: "Reshape"
   input: "random_shuffle_queue_DequeueMany:1"
-  input: "Reshape/shape"
+  input: "input/shape"
   attr {
     key: "T"
     value {
@@ -1718,7 +1718,7 @@ node {
 node {
   name: "conv2d/Conv2D"
   op: "Conv2D"
-  input: "Reshape"
+  input: "input"
   input: "conv2d/kernel/read"
   attr {
     key: "T"
@@ -2795,7 +2795,7 @@ node {
   }
 }
 node {
-  name: "Reshape_1/shape"
+  name: "Reshape/shape"
   op: "Const"
   attr {
     key: "_output_shapes"
@@ -2831,10 +2831,10 @@ node {
   }
 }
 node {
-  name: "Reshape_1"
+  name: "Reshape"
   op: "Reshape"
   input: "max_pooling2d_1/MaxPool"
-  input: "Reshape_1/shape"
+  input: "Reshape/shape"
   attr {
     key: "T"
     value {
@@ -3523,7 +3523,7 @@ node {
 node {
   name: "dense/MatMul"
   op: "MatMul"
-  input: "Reshape_1"
+  input: "Reshape"
   input: "dense/kernel/read"
   attr {
     key: "T"
@@ -8273,7 +8273,7 @@ node {
 node {
   name: "gradients/dense/MatMul_grad/MatMul_1"
   op: "MatMul"
-  input: "Reshape_1"
+  input: "Reshape"
   input: "gradients/dense/BiasAdd_grad/tuple/control_dependency"
   attr {
     key: "T"
@@ -8386,7 +8386,7 @@ node {
   }
 }
 node {
-  name: "gradients/Reshape_1_grad/Shape"
+  name: "gradients/Reshape_grad/Shape"
   op: "Const"
   attr {
     key: "_output_shapes"
@@ -8422,10 +8422,10 @@ node {
   }
 }
 node {
-  name: "gradients/Reshape_1_grad/Reshape"
+  name: "gradients/Reshape_grad/Reshape"
   op: "Reshape"
   input: "gradients/dense/MatMul_grad/tuple/control_dependency"
-  input: "gradients/Reshape_1_grad/Shape"
+  input: "gradients/Reshape_grad/Shape"
   attr {
     key: "T"
     value {
@@ -8465,7 +8465,7 @@ node {
   op: "MaxPoolGrad"
   input: "conv2d_1/Relu"
   input: "max_pooling2d_1/MaxPool"
-  input: "gradients/Reshape_1_grad/Reshape"
+  input: "gradients/Reshape_grad/Reshape"
   attr {
     key: "T"
     value {
@@ -9158,7 +9158,7 @@ node {
 node {
   name: "gradients/conv2d/Conv2D_grad/ShapeN"
   op: "ShapeN"
-  input: "Reshape"
+  input: "input"
   input: "conv2d/kernel/read"
   attr {
     key: "N"
@@ -9273,7 +9273,7 @@ node {
 node {
   name: "gradients/conv2d/Conv2D_grad/Conv2DBackpropFilter"
   op: "Conv2DBackpropFilter"
-  input: "Reshape"
+  input: "input"
   input: "gradients/conv2d/Conv2D_grad/ShapeN:1"
   input: "gradients/conv2d/BiasAdd_grad/tuple/control_dependency"
   attr {
@@ -9457,7 +9457,7 @@ node {
         dtype: DT_FLOAT
         tensor_shape {
         }
-        float_val: 0.0010000000475
+        float_val: 0.00079999997979
       }
     }
   }
@@ -12942,7 +12942,7 @@ node {
         dtype: DT_STRING
         tensor_shape {
         }
-        string_val: "_temp_a88e7fe524474438914f38ed4242c5cc/part"
+        string_val: "_temp_e73bf4f50c4b4ce2a623e2acf44f6cc8/part"
       }
     }
   }
