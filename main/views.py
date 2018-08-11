@@ -25,12 +25,13 @@ def nth(request):
 @api_view(["POST"])
 def classify(request):
     try:
-        os.remove('./resources/predict/here/*.png')
+        # os.remove('./resources/predict/here/*.png')
+        os.system('rm -rf ./resources/predict/here/*')
         myfile = request.FILES['image']
         fs = FileSystemStorage()
         fs.save('./resources/predict/here/'+myfile.name, myfile)
-        print os.listdir('./resources/predict/here/')
-        return Response({predictions()['classes']})
+        return Response(predictions()['classes'])
+        # return Response('classes')
     except ValueError as e:
         print "error"
         return Response(e.args[0], status.HTTP_400_BAD_REQUEST)
