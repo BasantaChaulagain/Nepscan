@@ -25,7 +25,7 @@ SECRET_KEY = '+9x4-=pgb0&gy#s0n+sst_n!&h-7p6*=oe18dgpyx88knw8m-d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.100.7', '127.0.0.1']
+ALLOWED_HOSTS = ['192.168.100.18', '127.0.0.1']
 
 
 # Application definition
@@ -102,6 +102,11 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': (
+       'rest_framework.permissions.AllowAny',
+    ),
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/

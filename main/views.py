@@ -25,8 +25,11 @@ def classify(request):
         myfile = request.FILES['image']
         fs = FileSystemStorage()
         fs.save('./resources/predict/here/'+myfile.name, myfile)
-        return Response(predictions()['classes'])
+        index = predictions()['classes'][0]
+        prob = predictions()['probabilities'][0][index]
+        # return Response({'index':str(index), 'prob':str(prob)})
+        return Response([str(index), str(prob)])
     except ValueError as e:
-        print "error"
+        print e.args
         return Response(e.args[0], status.HTTP_400_BAD_REQUEST)
 

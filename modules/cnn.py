@@ -18,8 +18,8 @@ from __future__ import division
 from __future__ import print_function
 import tensorflow as tf
 
-from .preprocessing import load_data
-from .config import TRAIN_DATA_DIRECTORY, TEST_DATA_DIRECTORY
+from preprocessing import load_data
+from config import TRAIN_DATA_DIRECTORY, TEST_DATA_DIRECTORY
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
@@ -118,60 +118,61 @@ def cnn_model_fn(features, labels, mode):
         mode=mode, loss=loss, eval_metric_ops=eval_metric_ops)
 
 
-def freeze_graph(model_dir, output_node_names):
-    """Extract the sub graph defined by the output nodes and convert
-    all its variables into constant
-    Args:
-        model_dir: the root folder containing the checkpoint state file
-        output_node_names: a string, containing all the output node's names,
-                            comma separated
-    """
-    if not tf.gfile.Exists(model_dir):
-        raise AssertionError(
-            "Export directory doesn't exists. Please specify an export "
-            "directory: %s" % model_dir)
-
-    if not output_node_names:
-        print("You need to supply the name of a node to --output_node_names.")
-        return -1
-
-    # We retrieve our checkpoint fullpath
-    checkpoint = tf.train.get_checkpoint_state(model_dir)
-    input_checkpoint = checkpoint.model_checkpoint_path
-
-    # We precise the file fullname of our freezed graph
-    absolute_model_dir = "/".join(input_checkpoint.split('/')[:-1])
-    output_graph = absolute_model_dir + "/frozen_model.pb"
-
-    # We clear devices to allow TensorFlow to control on which device it will load operations
-    clear_devices = True
-
-    # We start a session using a temporary fresh Graph
-    with tf.Session(graph=tf.Graph()) as sess:
-        # We import the meta graph in the current default Graph
-        saver = tf.train.import_meta_graph(input_checkpoint + '.meta', clear_devices=clear_devices)
-
-        # We restore the weights
-        saver.restore(sess, input_checkpoint)
-
-        # We use a built-in TF helper to export variables to constants
-        output_graph_def = tf.graph_util.convert_variables_to_constants(
-            sess,  # The session is used to retrieve the weights
-            tf.get_default_graph().as_graph_def(),  # The graph_def is used to retrieve the nodes
-            output_node_names.split(",")  # The output node names are used to select the usefull nodes
-        )
-
-        # Finally we serialize and dump the output graph to the filesystem
-        with tf.gfile.GFile(output_graph, "wb") as f:
-            f.write(output_graph_def.SerializeToString())
-
-    return output_graph_def
+# def freeze_graph(model_dir, output_node_names):
+#     """Extract the sub graph defined by the output nodes and convert
+#     all its variables into constant
+#     Args:
+#         model_dir: the root folder containing the checkpoint state file
+#         output_node_names: a string, containing all the output node's names,
+#                             comma separated
+#     """
+#     if not tf.gfile.Exists(model_dir):
+#         raise AssertionError(
+#             "Export directory doesn't exists. Please specify an export "
+#             "directory: %s" % model_dir)
+#
+#     if not output_node_names:
+#         print("You need to supply the name of a node to --output_node_names.")
+#         return -1
+#
+#     # We retrieve our checkpoint fullpath
+#     checkpoint = tf.train.get_checkpoint_state(model_dir)
+#     input_checkpoint = checkpoint.model_checkpoint_path
+#
+#     # We precise the file fullname of our freezed graph
+#     absolute_model_dir = "/".join(input_checkpoint.split('/')[:-1])
+#     output_graph = absolute_model_dir + "/frozen_model.pb"
+#
+#     # We clear devices to allow TensorFlow to control on which device it will load operations
+#     clear_devices = True
+#
+#     # We start a session using a temporary fresh Graph
+#     with tf.Session(graph=tf.Graph()) as sess:
+#         # We import the meta graph in the current default Graph
+#         saver = tf.train.import_meta_graph(input_checkpoint + '.meta', clear_devices=clear_devices)
+#
+#         # We restore the weights
+#         saver.restore(sess, input_checkpoint)
+#
+#         # We use a built-in TF helper to export variables to constants
+#         output_graph_def = tf.graph_util.convert_variables_to_constants(
+#             sess,  # The session is used to retrieve the weights
+#             tf.get_default_graph().as_graph_def(),  # The graph_def is used to retrieve the nodes
+#             output_node_names.split(",")  # The output node names are used to select the usefull nodes
+#         )
+#
+#         # Finally we serialize and dump the output graph to the filesystem
+#         with tf.gfile.GFile(output_graph, "wb") as f:
+#             f.write(output_graph_def.SerializeToString())
+#
+#     return output_graph_def
 
 
 def main(unused_argv):
     # Load training and eval data
+    print ("inside here")
     train_data, train_labels = load_data(TRAIN_DATA_DIRECTORY)
-    print (train_labels[134])
+    print (train_labels[334])
     eval_data, eval_labels = load_data(TEST_DATA_DIRECTORY)
 
     # Create the Estimator
@@ -220,7 +221,7 @@ def main(unused_argv):
     print('-----------------\neval_results: \n{}'.format(eval_results))
 
     predict_input_fn = tf.estimator.inputs.numpy_input_fn(
-        x={"x": train_data[134]},
+        x={"x": train_data[334]},
         shuffle=False)
     prediction_results = mnist_classifier.predict(predict_input_fn)
     for i in prediction_results:
